@@ -24,6 +24,12 @@ Note: This is NOT and "All day" event.
 
 Recommended: Good practise is to hold your Retrospective at the end of your Sprint.
 
+See `Retrospective <https://www.productplan.com/glossary/retrospective/>`_.
 
+**Definition**. A retrospective is a meeting held after a product ships to discuss what happened during the product development and release process, with the goal of improving things in the future based on those learnings and conversations.
+
+**Outcome**. Every retrospective should at a minimum result in a list of “things that went well” and “things that could use improvement.” 
+
+**Frequency**. Retrospectives can be held more frequently, including for minor releases, each sprint or even at daily or weekly standups.
 
 The Calendar Event of the Retrospective could have directions to the physical meeting place or a link online meeting for ease of attending.
