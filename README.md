@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+retrospective-management
+# Retrospective Management
 
 > Slugline
 
