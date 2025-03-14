@@ -1,6 +1,6 @@
 # Documentation
 
-Read the Docs: [vanHeemstraSystems-retrospective-management](https://vanHeemstraSystems-REPOSITORY-NAME.readthedocs.io/en/latest/)
+Read the Docs: [vanHeemstraSystems-retrospective-management](https://vanHeemstraSystems-retrospective-management.readthedocs.io/en/latest/)
 
 ## 100 - Install ReadTheDocs
 
