@@ -22,9 +22,9 @@ If the time of the Retrospective does not change during Sprints, you can set the
 
 ![Image](https://github.com/user-attachments/assets/af55b16d-5b4c-4ea2-8661-8ae4df8f32be)
 
-.. image:: https://github.com/user-attachments/assets/af55b16d-5b4c-4ea2-8661-8ae4df8f32be
+.. image:: https://private-user-images.githubusercontent.com/1499433/430837594-af55b16d-5b4c-4ea2-8661-8ae4df8f32be.png
   :width: 400
-  :alt: Restrospective Even in MS Teams
+  :alt: Restrospective Event in MS Teams
 
 Note: This is NOT and "All day" event.
 
